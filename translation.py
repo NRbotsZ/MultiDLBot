@@ -2,7 +2,7 @@
  
 class Translation(object):
     START_TEXT = """Hello,
-I Am Telegram Multi DL Bot!
+I Am Telegram Many DL Bot!
 <b>I can do More things Like URL Upload, Convert to video, convert to audio, unzip files, download the stickers, Rename the files</b>
 
 /help for more details..
@@ -36,7 +36,7 @@ URL | filename | username | password"""
 Telegram ID: <code>{}</code>
 Plan name: Free User
 Expires on: 31/12/2020"""
-    HELP_USER = """Hai I am MULTI DL Bot..
+    HELP_USER = """Hai I am MANY DL Bot..
     
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
